@@ -48,11 +48,7 @@ src="https://img.shields.io/github/followers/amitkr78?logo=github&style=for-the-
     </a>
 </p>
 <br/>
-<a href="https://github.com/amitkr78/github-readme-activity-graph"><img alt="Amit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amitkr78&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/amitkr78/Face-Meet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amitkr78&repo=Face-Meet&title_color=5BCDEC&text_color=ffffff&icon_color=5BCDEC&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me :
 
